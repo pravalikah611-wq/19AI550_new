@@ -57,9 +57,9 @@ public class TransformOperations : MonoBehaviour
     }
 }
 
-### Output:
+OUTPUT:
 
-<img width="1911" height="997" alt="exp 3" src="https://github.com/user-attachments/assets/484b7183-3cd9-4f47-aec5-d1b6af3bb1ff" />
+<img width="1911" height="997" alt="exp 3" src="https://github.com/user-attachments/assets/54040c73-80bd-4a08-ad19-2816ba3ecdde" />
 
 ### Result:
 Thus the basic movement is learned through scripting
