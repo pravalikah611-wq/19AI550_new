@@ -51,7 +51,8 @@ public class PlayerJump : MonoBehaviour
 ### Output:
 
 
-<img width="1918" height="1137" alt="exp6" src="https://github.com/user-attachments/assets/93af3b1a-7585-46b0-b449-704454400f50" />
+<img width="1629" height="965" alt="Unity Editor with Blue Floating Cube" src="https://github.com/user-attachments/assets/14531bb8-6ae0-4d8b-a402-4ea292671cd7" />
+
 
 
 
