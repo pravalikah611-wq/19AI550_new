@@ -1,3 +1,5 @@
+<img width="1911" height="997" alt="exp 3" src="https://github.com/user-attachments/assets/f607de1e-2adf-4491-91a4-5c99b6a08817" />
+<img width="1911" height="997" alt="exp 3" src="https://github.com/user-attachments/assets/981a587c-9cbd-43a0-a2b4-a4da3557da83" />
 # Ex.No: 3  Basic movements in Unity 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
@@ -58,12 +60,7 @@ public class TransformOperations : MonoBehaviour
 ```
 ### Output:
 
-
-
-
-
-
-
+<img width="1911" height="997" alt="exp 3" src="https://github.com/user-attachments/assets/484b7183-3cd9-4f47-aec5-d1b6af3bb1ff" />
 
 ### Result:
 Thus the basic movement is learned through scripting
