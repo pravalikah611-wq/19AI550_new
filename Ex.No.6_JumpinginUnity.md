@@ -1,3 +1,4 @@
+
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
@@ -50,6 +51,7 @@ public class PlayerJump : MonoBehaviour
 ### Output:
 
 
+<img width="1918" height="1137" alt="exp6" src="https://github.com/user-attachments/assets/93af3b1a-7585-46b0-b449-704454400f50" />
 
 
 
